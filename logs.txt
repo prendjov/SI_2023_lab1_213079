@@ -1,0 +1,36 @@
+commit 74865f42172b990e5d5e3bde6b994e49608183b3 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: prendjov <prendjov.p@yahoo.com>
+Date:   Mon Apr 3 16:00:52 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit c0c2f69af07be1b4ac49b32af8568f40f7eb48a9
+Merge: ee51ed2 fade0de
+Author: prendjov <prendjov.p@yahoo.com>
+Date:   Mon Apr 3 16:02:11 2023 +0200
+
+    Merge branch 'bug2'
+
+commit ee51ed26458dc1cf88cb713c56d93a12071178aa (origin/bug1, bug1)
+Author: prendjov <prendjov.p@yahoo.com>
+Date:   Mon Apr 3 16:00:02 2023 +0200
+
+    Fix wrong loop for reading
+
+commit fade0deff4ff2c0767d35a08c7c031a8ef5190dc (origin/bug2, bug2)
+Author: prendjov <prendjov.p@yahoo.com>
+Date:   Mon Apr 3 15:58:18 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 30d97c931f4c055e4bc02a821af89eeb83dee62b
+Author: prendjov <prendjov.p@yahoo.com>
+Date:   Mon Apr 3 15:52:43 2023 +0200
+
+    Add java class
+
+commit 7a4c67a22f856fba89cdadc67732d3d45cf4746c
+Author: prendjov <prendjov.p@yahoo.com>
+Date:   Mon Apr 3 15:51:50 2023 +0200
+
+    First commit
